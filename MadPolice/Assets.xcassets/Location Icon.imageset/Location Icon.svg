@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Location_Icon" data-name="Location Icon" transform="translate(-180)">
+    <path id="Bounds" d="M180,0h24V24H180Z" fill="none"/>
+    <path id="Icon" d="M192,8a4,4,0,1,0,4,4A4.012,4.012,0,0,0,192,8Zm8.9,3A8.932,8.932,0,0,0,193,3.1V1h-2V3.1a8.932,8.932,0,0,0-7.9,7.9H181v2h2.1a8.932,8.932,0,0,0,7.9,7.9V23h2V20.9a8.932,8.932,0,0,0,7.9-7.9H203V11ZM192,19a7,7,0,1,1,7-7A6.957,6.957,0,0,1,192,19Z" fill="#4285f4"/>
+  </g>
+</svg>
